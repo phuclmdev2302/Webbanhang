@@ -61,7 +61,7 @@
     <div id="content">
         <!-- Nội dung của trang admin sẽ được tải vào đây -->
         <h1>Xin chào, đây là trang quản lý admin!</h1>
-        <p>Đây là nội dung của trang admin. Bạn có thể thêm các thành phần HTML, PHP, JavaScript, CSS, etc. tại đây để hiển thị các chức năng quản lý của bạn.</p>
+        
     </div>
 
 </body>
